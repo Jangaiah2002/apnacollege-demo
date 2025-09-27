@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is test and first git.
 <br>
-author Jay
+author Jay(Jangaiah)
